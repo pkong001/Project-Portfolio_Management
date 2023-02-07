@@ -1,5 +1,9 @@
-[Notebook](https://github.com/pkong001/Project-Portfolio_Management/blob/main/notebook.ipynb)
-[Script]()
+[Notebook  /](https://github.com/pkong001/Project-Portfolio_Management/blob/main/notebook.ipynb)
+
+[  Script  /](https://github.com/pkong001/Project-Portfolio_Management/blob/main/script.py)
+
+[  Original Excel file](https://github.com/pkong001/Project-Portfolio_Management/blob/main/port-management%20(original%20excel%20file).xlsx)
+
 ### Project Information
 This project's objective is to create a dashboard for managing investment funds, particularly in Thailand, where some of the underlying assets are foreign. To accomplish this, I will pull information from various sources using public API, combine, transform, and build the dashboard.
 
